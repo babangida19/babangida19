@@ -1,4 +1,4 @@
-{"variant":"standard","title":"World-Class GitHub README – Ibrahim Babangida Yusuf","id":"94726"}
+
 Hi, I’m Ibrahim Babangida Yusuf 👋
 
 Flutter Developer • Fintech & PropTech Builder • NGO Tech Leader @ Colgar
@@ -46,7 +46,7 @@ Colgar strengthened my skills in leadership, project execution, and socially-res
 
 Email: babzibrahim@gmail.com  
 Location: Nigeria  
-LinkedIn: (add your link here)  
+LinkedIn: https://www.linkedin.com/in/ibrahim-b-656a65131/
 
 “Build with code. Lead with purpose. Measure by impact.”
 
