@@ -8,7 +8,7 @@ I design, build, and scale mobile applications that solve real financial and soc
 🛠️ Core Stack
 
 Flutter • Dart • Firebase • REST APIs  
-Paystack • Flutterwave • Google Maps API  
+Wordpress • Shopify • Woocommerce  
 Provider • Riverpod • Bloc • Clean Architecture  
 Git • GitHub • GitLab • Bitbucket  
 
