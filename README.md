@@ -3,7 +3,7 @@ Hi, I’m Ibrahim Babangida Yusuf 👋
 
 Flutter Developer • Fintech & PropTech Builder • NGO Tech Leader @ Colgar
 
-I design, build, and scale mobile applications that solve real financial and social problems across Africa. I specialize in clean architecture, secure payment systems, and community-powered platforms.
+I design, build, and scale mobile applications that solve real financial and social problems across Africa and the world. I specialize in clean architecture, secure payment systems, and community-powered platforms.
 
 🛠️ Core Stack
 
